@@ -4,3 +4,25 @@ for i in range(n):
 
 for k in range(n,0,-1):
     print(k)
+
+for j in range(1,100,5):
+    print(j)
+
+a=10
+b=2
+print(a+b)
+if(a==10):
+    c="raghu"
+
+
+def func_x(num):
+    if num == 1:
+        return a()
+    elif num == 2:
+        return b()
+    elif num == 3:
+        return c()
+    elif num == 4:
+        return d()
+    elif num == 5:
+        return e()
